@@ -1,0 +1,36 @@
+{
+  "name": "koolup-vitrine",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/icons-material": "^5.15.15",
+    "axios": "^1.7.2",
+    "js-cookie": "^3.0.5",
+    "jwt-decode": "^4.0.0",
+    "next": "14.1.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-easy-swipe": "^0.0.23",
+    "react-id-swiper": "^4.0.0",
+    "react-responsive-carousel": "^3.2.23",
+    "swiper": "^11.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.18",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.1",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
